@@ -1,0 +1,13 @@
+dist
+bin
+
+node_modules
+
+#Hardhat deploy
+deployments/localhost
+deployments/testnet
+
+#Hardhat files
+cache
+artifacts
+typechain-types
